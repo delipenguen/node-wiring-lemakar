@@ -1,5 +1,5 @@
 {
-  "name": "node-wiring-pi",
+  "name": "node-wiring-lemaker",
   "version": "0.0.5",
   "description": "Bindings to native wiringPi",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rsg98/node-wiring-pi.git"
+    "url": "https://github.com/rsg98/node-wiring-lemaker.git"
   },
   "keywords": [
     "wiringPi",
@@ -19,7 +19,7 @@
     "raspberrypi",
     "bcm2835"
   ],
-  "author": "Richard Grime <richard.grime@gmail.com>",
+  "author": "Semih CINKIR <csemih@gmail.com>",
   "contributors": [
     "Igor Soarez <igorsoarez@gmail.com>",
     "Leandre Gohy <leandre.gohy@hexeo.be>",
