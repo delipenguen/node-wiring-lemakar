@@ -1,6 +1,6 @@
 ##Node.js bindings to [wiringPi](http://www.wiringpi.com)
 
-node-wiring-pi is based on https://github.com/WiringPi/WiringPi-Node
+node-wiring-lemaker is based on https://github.com/WiringPi/WiringPi-Node
 
 It differs from the original project by:
 
@@ -25,13 +25,13 @@ See the [WiringPi](http://wiringpi.com/download-and-install/) link for more opti
 To install this node module:
 
 ```
-npm install node-wiring-pi
+npm install node-wiring-lemaker
 ```
 
 ## Usage
 
 ```javascript
-var wpi = require('node-wiring-pi');
+var wpi = require('node-wiring-lemaker');
 ```
 
 ## TODO
